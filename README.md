@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ShazarAbbas09/ShazarAbbas09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shazar, A Developer Student based in Pakistan.
+I Work on different small projects that help me understand and innovate.
 
-Here are some ideas to get you started:
+ I’m currently working on small basic applications such as calculators etc 🔭.
+I'm always trying to learn and i showcase my creativity on the screen. 
+I know how to be a Problem Solver😄.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 How to reach me:
+You can reach me on my instagram accounts and also on linkdin account.
+
+- ⚡ Fun fact: 
+--> Developing small projects to learn BIG.
